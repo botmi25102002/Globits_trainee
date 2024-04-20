@@ -2,7 +2,7 @@ import React from "react";
 import { Formik, Form, Field, ErrorMessage } from "formik";
 import * as Yup from "yup";
 import PropTypes from "prop-types";
-import '../Style/CountryModal.css';
+import '../../Style/CountryModal.css';
 
 const validationSchema = Yup.object().shape({
   name: Yup.string().required("Name is required"),

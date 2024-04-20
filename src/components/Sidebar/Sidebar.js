@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import '../Style/Sidebar.css';
+import '../../Style/Sidebar.css';
 import { IoHomeOutline } from "react-icons/io5";
 import { RiEarthLine } from "react-icons/ri";
 

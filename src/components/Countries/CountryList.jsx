@@ -2,7 +2,7 @@
 
 import PropTypes from "prop-types"; 
 import React from "react";
-import '../Style/CountryList.css'
+import '../../Style/CountryList.css'
 
 
 const CountryList = ({ countries, onEdit, onDelete }) => {
